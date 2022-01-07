@@ -144,3 +144,9 @@
 .icon-comments:before {
   content: "\e91a";
 }
+.botao {
+  margin-top: 20px;
+  width: 47px;
+    height: 20px;
+   
+}
